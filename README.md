@@ -46,17 +46,12 @@ I'm currently focused on:
 
 ## 📬 Contact Me
 
-- 📧 Email: `youremail@example.com` *(replace with actual email)*
-- 🌐 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: `sahranmhd312"gmail.com` *(replace with actual email)*
+- 🌐 LinkedIn: 
 - 🖥️ Portfolio: *Coming Soon*
 
 ---
 
-## 📌 GitHub Stats (Optional)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedsahran&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsahran&layout=compact&theme=radical)
-
----
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect!*
