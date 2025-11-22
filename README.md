@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Sahran
+# 👋 Hi, I'm Sahran
 
 🎓 **Computer Science Undergraduate**  
 💻 **AI/ML Engineer | Backend Developer | Full-Stack Enthusiast**  
@@ -65,6 +65,6 @@ Designed smart system simulations using sensors/actuators on Tinkercad, complete
 ## 📬 Contact Me
 
 📧 **Email:** sahranmhd312@gmail.com  
-🌐 **LinkedIn:** (add your link)  
+🌐 **LinkedIn:**   https://www.linkedin.com/in/safiutheen-sahran/
 🖥️ **Portfolio:** Coming soon  
 
