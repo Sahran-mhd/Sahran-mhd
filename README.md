@@ -1,57 +1,70 @@
-# 👋 Hi, I'm Mohammed Sahran!
+# 👋 Hi, I'm Mohammed Sahran
 
-🎓 I'm an undergraduate Computer Science student passionate about solving real-world problems with code. I actively work on web development, machine learning, computer vision, and academic software projects.
-
----
-
-## 🛠️ My Skills
-
-- **Languages**: Java, PHP, Python, C++, JavaScript, SQL  
-- **Web Development**: Laravel, Next.js, HTML, CSS, Bootstrap, Tailwind  
-- **Data Science & ML**: Scikit-Learn, Pandas, NumPy, Power BI, OpenCV  
-- **Databases**: MySQL, Firebase, MongoDB  
-- **Tools**: Git, VS Code, Anaconda, XAMPP, Arduino IDE, Jira  
-- **Others**: Image Processing, Ethical Hacking, IoT Systems
+🎓 **Computer Science Undergraduate**  
+💻 **AI/ML Engineer | Backend Developer | Full-Stack Enthusiast**  
+I build intelligent systems, scalable backend architectures, and modern full-stack web applications. I’m passionate about solving real-world problems using Machine Learning, Computer Vision, and efficient backend engineering.
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### 🖥️ Inventory Management System (PHP + MySQL)
-A web-based inventory manager for our university's Computer Science Department to manage lab, office, and multimedia items efficiently.
+### **Languages**
+- Python, JavaScript, Java, PHP, C++, SQL
 
-### 🔐 Blockchain-based Application
-Built a secure decentralized application with my team for project submission using blockchain principles.
+### **Backend & Web Development**
+- Node.js, Express.js  
+- Laravel, Next.js  
+- HTML, CSS, Bootstrap, Tailwind
 
-### 📊 Power BI Dashboards
-Created several dashboards to visualize and analyze business data using filters, DAX, and visuals.
+### **AI / Data Science / ML**
+- Scikit-Learn, Pandas, NumPy  
+- OpenCV, Matplotlib  
+- Power BI  
+- Image Processing & Computer Vision
 
-### 🧠 Machine Learning Models
-Trained regression and classification models on datasets like California Housing and Iris using Scikit-learn. Also explored dimensionality reduction and SVMs.
+### **Databases**
+- MySQL, MongoDB, Firebase
 
-### 🤖 IoT Projects with Arduino
-Simulated smart systems using Tinkercad with sensors and actuators for a group project with digital poster and VIVA presentation.
+### **Tools & Platforms**
+- Git, GitHub, VS Code  
+- Anaconda, XAMPP, Arduino IDE  
+- Jira, Tinkercad  
+- Linux & Shell Scripting
 
 ---
 
-## 📚 Learning Goals
+## 🚀 Featured Projects
 
-I'm currently focused on:
-- Becoming a **Machine Learning Engineer** 👨‍💻
-- Mastering **Power BI and Data Analytics**
-- Building **full-stack web apps** with modern tools
-- Strengthening **Image Processing** skills with MATLAB & OpenCV
+### 🖥️ **Inventory Management System (PHP + MySQL)**
+A web-based system built for the University of Jaffna Computer Science Department to efficiently manage lab, office, and multimedia equipment.
+
+### 🔐 **Blockchain-Based Application**
+Developed a decentralized application prototype with my team for secure data management using blockchain concepts.
+
+### 📊 **Power BI Business Dashboards**
+Built multiple dashboards to analyze business performance using DAX calculations, interactive visuals, and data modeling.
+
+### 🧠 **Machine Learning Models**
+Implemented regression and classification models (California Housing, Iris dataset), explored SVMs, dimensionality reduction, and model evaluation techniques.
+
+### 🤖 **IoT + Arduino Projects**
+Designed smart system simulations using sensors/actuators on Tinkercad, completed with documentation, poster presentation, and VIVA evaluation.
+
+---
+
+## 📚 Current Learning Goals
+
+- Advancing as an **AI & Machine Learning Engineer**  
+- Mastering **Backend Engineering** with Node.js & Laravel  
+- Building **full-stack applications** with modern frameworks  
+- Improving **Computer Vision** skills (MATLAB, OpenCV)  
+- Developing scalable **ML pipelines & MLOps** concepts  
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: `sahranmhd312"gmail.com` *(replace with actual email)*
-- 🌐 LinkedIn: 
-- 🖥️ Portfolio: *Coming Soon*
+📧 **Email:** sahranmhd312@gmail.com  
+🌐 **LinkedIn:** (add your link)  
+🖥️ **Portfolio:** Coming soon  
 
----
-
-
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect!*
