@@ -185,9 +185,9 @@ I'm interested in opportunities to contribute to **backend development, full-sta
 
 💼 **LinkedIn:** [Safiutheen Sahran](https://www.linkedin.com/in/safiutheen-sahran/)
 
-🌐 **Portfolio:** Coming Soon
+🌐 **Portfolio:** https://portfolio-taupe-five-29.vercel.app
 
-📍 **Location:** Sri Lanka
+📍 **Location:** Koiyawadi, Norochcholai, Puttalam, Sri Lanka
 
 ---
 
